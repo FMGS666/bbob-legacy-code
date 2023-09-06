@@ -1,0 +1,9 @@
+First time using roxygen2. Upgrading automatically...
+Updating roxygen version in  /Users/hansen/svn/coco/BBOB/tmpdelivery/bbob.v15.03/r/pkg/DESCRIPTION 
+Loading required package: stringr
+Loading required package: BBmisc
+Writing NAMESPACE
+Writing low-level.Rd.Rd
+Writing bbo_benchmark.Rd
+Writing bbo_timing.Rd
+Writing random_search.Rd

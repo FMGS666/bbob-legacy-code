@@ -1,0 +1,17 @@
+body {
+    max-width: 80ex;
+    margin: auto;
+    font-family: Cambria, Georgia, Times, “Times New Roman”, serif;
+    font-size: 12pt;
+}
+
+pre {
+    background-color: #eee;
+    border: 1px solid #999;
+    padding: 0.5ex;
+}
+
+code {
+    font-family: Consolas, Lucida Console, Monaco, Courier, mono;
+    font-size: 110%;
+}

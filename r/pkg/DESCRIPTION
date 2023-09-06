@@ -1,0 +1,10 @@
+Package: bbob
+Title: Black-Box Optimization Benchmark
+Description: Interface to the C BBOB toolbox
+Author: The BBOBies
+Maintainer: Olaf Mersmann <olafm@p-value.net>
+Depends: methods, stringr, BBmisc
+License: BSD
+LazyData: yes
+Version: 15.03
+RoxygenNote: 5.0.1
